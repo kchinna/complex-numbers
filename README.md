@@ -1,4 +1,13 @@
 # complex-numbers
 
-Handles arithmetic operations with complex numbers in the a+bi format.
-Explores introduction to class design such as getters, setters, compareTo, and more.
+Handles mathematical operations with complex numbers in the a + bi format.
+Operations include
+- standard arithmetic (addition, subtraction, multiplication, division)
+- logarithmic operations
+- trigonometric operations
+
+Explores introductory concepts of object oriented progeamming such as class design
+Some concepts of class design include
+- getters/setters
+- overloaded constructors
+- non static methods
